@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de fideos</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <h1>Receta de fideos</h1>
+        <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="seecion1.html">Preparacion</a></li>
+            <li><a href="seccion2.html">Ingredientes</a></li>
+        </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Preparacion</h2>
+            <article>
+                <ol>
+                    <li>Coloca la harina en la mesada y forma una corona.</li>
+                    <li>Agrega los huevos, el aceite y la sal en el centro.</li>
+                    <li>Bate los huevos con un tenedor y ve integrando la harina de los bordes poco a poco.</li>
+                    <li>Amasa con la palma de la mano durante unos 10 minutos hasta que la masa quede lisa y homogénea.</li>
+                    <li>Cubre la masa con film o una bolsa y déjala descansar 20 minutos.</li>
+                </ol>
+                <a href="https://youtu.be/fQfoMpfanXY?si=eG2HW5UPX9f6PTji">Video explicativo</a>
+            </article>
+            <article>
+                <h2>Origen</h2>
+                <p>Los fideos se crearon hace 4000 años en China con una mezcla basica de agua y harina. Luego Marco Polo los llevo a Italia donde tuvieron gran exito y se popularizaron.</p>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwT_Zx0RkXEzLyiSlsJNLflvC6hJBvlkVp4kczXnDYFA&s=10" alt="Fideos alargados.">
+            </article>
+        </section>
+        <section>
+            <h2>Ingredientes</h2>
+            <p>100g de Harina, 1 huevo, media cucharada de sal, 1 cucharada de aceite y cucharadas de agua.</p>
+        </section>
+    </main>
+</body>
+<footer>
+<h3>Paginas para investigar</h3>
+<a href="https://www.directoalpaladar.com/curso-de-cocina/como-hacer-pasta-fresca-la-receta">Pagina web</a>
+</footer>
+</html>
