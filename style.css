@@ -61,7 +61,7 @@ main {
 
 
 h2 {
-    color: var(--azul);
+    color: blue;
     border-bottom: 3px solid red;
     padding-bottom: 8px;
 }
