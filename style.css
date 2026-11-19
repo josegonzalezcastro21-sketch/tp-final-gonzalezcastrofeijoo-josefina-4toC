@@ -35,7 +35,6 @@ header h1 {
 header nav {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
     gap: 15px;
     margin-top: 15px;
 }
@@ -46,7 +45,6 @@ nav a {
     background-color: red;
     padding: 10px 16px;
     border-radius: 8px;
-    transition: 0.3s;
 }
 
 nav a:hover {
@@ -78,7 +76,6 @@ section {
     margin: 25px 0;
     padding: 25px;
     border-radius: 12px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
 
